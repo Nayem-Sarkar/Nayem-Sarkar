@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nayem</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+ <p>I get my most excitement when I design a section, play with colours, fonts. I don't know why but these small things fascinate me a lot, gives me motivation to move furthure</p>
 - 🌱 I’m currently learning **Library react js**
 
 - 💬 Ask me about **React**
 
-<h3 align="left">Connect with me:<br> LinkedIn:<a href="[https://www.w3schools.com/css/](https://www.linkedin.com/in/nayem-sarkar-1207aa179/)" target="_blank" rel="noreferrer">https://www.linkedin.com/in/nayem-sarkar-1207aa179/</h3>
+<h3 align="left">Connect with me:<br> LinkedIn:<a href="[https://www.w3schools.com/css/](https://www.linkedin.com/in/nayem-sarkar-1207aa179/)" target="_blank" rel="noreferrer">https://www.linkedin.com/in/nayem-sarkar-1207aa179/ <br> Facebook:<a href="https://www.facebook.com/Nayeemsorkar3334?mibextid=ZbWKwL)" target="_blank" rel="noreferrer">https://www.linkedin.com/in/nayem-sarkar-1207aa179/](https://www.facebook.com/Nayeemsorkar3334?mibextid=ZbWKwL</h3>
 <p align="left">
 </p>
 
