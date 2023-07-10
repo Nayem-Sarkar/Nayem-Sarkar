@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<br> LinkedIn:<a href="[https://www.w3schools.com/css/](https://www.linkedin.com/in/nayem-sarkar-1207aa179/)" target="_blank" rel="noreferrer">https://www.linkedin.com/in/nayem-sarkar-1207aa179/</h3>
 <p align="left">
 </p>
 
